@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![JuanCamiloM21's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCamiloM21&hide=contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JuanCamiloM21/JuanCamiloM21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
