@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Juan Camilo Moreno</h1>
 <h3 align="center">Frontend developer with experience in React, Next JS, JavaScript, HTML5, CSS, Tailwind, Wordpress among others. Organized, persevering and disciplined. extremely passionate about technology.</h3>
 
@@ -21,24 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancamilom21&show_icons=true&locale=en&layout=compact" alt="juancamilom21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juancamilom21&show_icons=true&locale=en&hide=contribs&count_private=true&theme=github_dark&include_all_commits=true" alt="juancamilom21" /></p>
-
-
-
-
-
-[![JuanCamiloM21's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCamiloM21&hide=contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JuanCamiloM21/JuanCamiloM21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
