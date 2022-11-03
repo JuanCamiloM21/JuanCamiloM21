@@ -3,19 +3,18 @@
 
 <h2 align="center">Some of my contributions in projects:</h2>
 
-<p>Master Challenge que es una aplicación web que permite resolver retos de CSS contuyendo el home con tecnologías como Next Js y Tailwind.</p>
-- MasterEats [https://master-challenge-css.vercel.app](https://master-challenge-css.vercel.app)
+<p>- Master Challenge is a web application that allows you to solve CSS challenges by containing the home with technologies such as Next Js and Tailwind.
+Master Challenge [https://master-challenge-css.vercel.app](https://master-challenge-css.vercel.app)</p>
 
-<p>Oneevent una app para hacer reservas de eventos maquetando toda la aplicación con tecnologías como React, Redux y Sass.</p>
-- MasterEats [https://oneevent.netlify.app](https://oneevent.netlify.app)
+<p>- Oneevent una app para hacer reservas de eventos maquetando toda la aplicación con tecnologías como React, Redux y Sass.
+MasterEats [https://oneevent.netlify.app](https://oneevent.netlify.app)</p>
 
-<p>Master Eats que es un ecommerce para supermercados construyendo el carrito de compras y el home de la aplicación con tecnologías como React,  Styled Component y Firebase.</p>
-- MasterEats [https://master-eats.web.app](https://master-eats.web.app)
-- MasterEats
+<p>- Master Eats que es un ecommerce para supermercados construyendo el carrito de compras y el home de la aplicación con tecnologías como React,  Styled Component y Firebase.
+MasterEats [https://master-eats.web.app](https://master-eats.web.app)</p>
 
-<h2>Some of my personal projects</h>
-- E-commerce with React [https://crud-products-react.web.app](https://crud-products-react.web.app)
-- Twitter clon with React [https://react-twitter-clon.web.app](https://react-twitter-clon.web.app)
+<h2>Some of my personal projects</h2>
+<p>- E-commerce with React [https://crud-products-react.web.app](https://crud-products-react.web.app)</p>
+<p>- Twitter clon with React [https://react-twitter-clon.web.app](https://react-twitter-clon.web.app)</p>
 - 👨‍💻 All of my projects are available at [https://github.com/JuanCamiloM21](https://github.com/JuanCamiloM21)
 
 - 📫 How to reach me **juancamilomg21@gmail.com**
