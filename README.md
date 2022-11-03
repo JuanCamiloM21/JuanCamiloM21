@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Camilo Moreno</h1>
-<h3 align="center">Frontend developer with experience in React, Next JS, JavaScript, HTML5, CSS, Tailwind, Wordpress, among others. Organized, persevering and disciplined. extremely passionate about technology.</h3>
+<h3 align="center">Frontend developer with experience in React, Next JS, JavaScript, HTML5, CSS, Tailwind, Wordpress, among others. Organized, persevering and disciplined and extremely passionate about technology.</h3>
 
 <h2>Some of my contributions in projects 👨‍💻</h2>
 
