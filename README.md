@@ -5,9 +5,9 @@
 
 - Master Challenge is a web application that allows you to solve CSS challenges by containing the home with technologies such as Next Js and Tailwind. [https://master-challenge-css.vercel.app](https://master-challenge-css.vercel.app)
 
-- Oneevent an app to make event reservations by laying out the entire application with technologies such as React, Redux and Sass.[https://oneevent.netlify.app](https://oneevent.netlify.app)</p>
+- Oneevent an app to make event reservations by laying out the entire application with technologies such as React, Redux and Sass. [https://oneevent.netlify.app](https://oneevent.netlify.app)</p>
 
-- Master Eats is an ecommerce for supermarkets building the shopping cart and the home of the application with technologies such as React, Styled Component and Firebase.[https://master-eats.web.app](https://master-eats.web.app)</p>
+- Master Eats is an ecommerce for supermarkets building the shopping cart and the home of the application with technologies such as React, Styled Component and Firebase. [https://master-eats.web.app](https://master-eats.web.app)</p>
 
 <h2>Some of my personal projects 👨‍💻</h2>
 
