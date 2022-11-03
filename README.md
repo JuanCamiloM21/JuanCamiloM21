@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Camilo Moreno</h1>
 <h3 align="center">Frontend developer with experience in React, Next JS, JavaScript, HTML5, CSS, Tailwind, Wordpress, among others. Organized, persevering and disciplined. extremely passionate about technology.</h3>
 
-<h2 align="center">Some of my contributions in projects:</h2>
+<h2>Some of my contributions in projects:</h2>
 
 <p>- Master Challenge is a web application that allows you to solve CSS challenges by containing the home with technologies such as Next Js and Tailwind.
 Master Challenge [https://master-challenge-css.vercel.app](https://master-challenge-css.vercel.app)</p>
