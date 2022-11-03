@@ -4,17 +4,21 @@
 <h2>Some of my contributions in projects:</h2>
 
 <p>- Master Challenge is a web application that allows you to solve CSS challenges by containing the home with technologies such as Next Js and Tailwind.
+
 Master Challenge [https://master-challenge-css.vercel.app](https://master-challenge-css.vercel.app)</p>
 
 <p>- Oneevent an app to make event reservations by laying out the entire application with technologies such as React, Redux and Sass.
+
 Oneevent [https://oneevent.netlify.app](https://oneevent.netlify.app)</p>
 
 <p>- Master Eats que es un ecommerce para supermercados construyendo el carrito de compras y el home de la aplicación con tecnologías como React,  Styled Component y Firebase.
+
 MasterEats [https://master-eats.web.app](https://master-eats.web.app)</p>
 
 <h2>Some of my personal projects</h2>
-<p>- E-commerce with React [https://crud-products-react.web.app](https://crud-products-react.web.app)</p>
-<p>- Twitter clon with React [https://react-twitter-clon.web.app](https://react-twitter-clon.web.app)</p>
+
+- E-commerce with React [https://crud-products-react.web.app](https://crud-products-react.web.app)
+- Twitter clon with React [https://react-twitter-clon.web.app](https://react-twitter-clon.web.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuanCamiloM21](https://github.com/JuanCamiloM21)
 
